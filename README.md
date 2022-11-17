@@ -16,7 +16,9 @@ The program will provide a graph with all the simulation (in this example a 100)
     <img src="images/img.png" width="66%">
 </div>
 
-### Result
+### Provided data 
+The returning data based on the simulations ran.
+
 <div align="center">
     <img src="images/Screenshot 2.png" width=50%">
 </div>
